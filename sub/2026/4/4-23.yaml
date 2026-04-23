@@ -1,27 +1,29 @@
 clash订阅:
-- https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-- https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
 - https://pai.yt/clash?preset=other
-- https://pai.yt/clash
-- https://sni.111000.dynv6.net/sub
-- https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
-- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
-- https://proxypool.dmit.dpdns.org/clash/proxies
 - https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 - https://sni.111000.dynv6.net/sub?clash
+- https://sni.111000.dynv6.net/sub
+- https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
+- https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
+- https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+- https://pai.yt/clash
+- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
+- https://proxypool.dmit.dpdns.org/clash/proxies
 v2订阅:
+- https://pai.yt/base64
+- https://pai.yt/base64?preset=other
 - https://iuiu.lovebabyforever.workers.dev/
 - https://sub.scpnb.top/base64
-- https://pai.yt/base64?preset=other
 开心玩耍:
-- 可用流量:47.38 GB                    https://knotic.net/sub/bbf25343a71ef115/clash
 - 可用流量:58.26 GB                    https://xmm.maimaiyun.shop/api/v1/xmm?token=/4204a0c8a97f4f8c76cca463ce20b913
-- 可用流量:651.99 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=6eb40fad2c38da9644f2d74eb2fae757
-- 可用流量:3397.09 GB                    https://aoe.o.eoa.ccwu.cc/o
-- 可用流量:255.7 GB                    https://mojie.app/api/v1/client/subscribe?token=8f3d49f0e449452fa3c68b705ea125b8
+- 可用流量:23230.2 GB                    https://aoe.o.eoa.ccwu.cc/o
+- 可用流量:23228.8 GB                    https://aoe.o.eoa.ccwu.cc/o
+- 可用流量:313.96 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=6eb40fad2c38da9644f2d74eb2fae757
+- 可用流量:47.21 GB                    https://knotic.net/sub/bbf25343a71ef115/clash
+- 可用流量:101.87 GB                    https://mojie.app/api/v1/client/subscribe?token=8f3d49f0e449452fa3c68b705ea125b8
 机场订阅:
 - https://mojie.app/api/v1/client/subscribe?token=8f3d49f0e449452fa3c68b705ea125b8
 - https://xmm.maimaiyun.shop/api/v1/xmm?token=/4204a0c8a97f4f8c76cca463ce20b913
-- https://knotic.net/sub/bbf25343a71ef115/clash
 - https://47.112.97.173:5000/api/v1/client/subscribe?token=6eb40fad2c38da9644f2d74eb2fae757
+- https://knotic.net/sub/bbf25343a71ef115/clash
 - https://aoe.o.eoa.ccwu.cc/o
